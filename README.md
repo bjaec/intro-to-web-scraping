@@ -8,9 +8,13 @@ For Airtable keys:
 
 
 Greylock
+
 Khosla
+
 8VC
 
 https://jobs.greylock.com/jobs
+
 https://jobs.khoslaventures.com/jobs
+
 https://jobs.8vc.com/jobs

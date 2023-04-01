@@ -1,4 +1,5 @@
 # Intro to Web Scraping Repo for IGNITE
+bit.ly/intro-to-web-scraping
 
 Open vc_scraping_demo.ipynb to get started!
 
